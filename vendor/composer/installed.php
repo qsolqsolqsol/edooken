@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-min',
+    'version' => 'dev-min',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '75bd7bbaf8fb66b759d0464ad7a105feacbdf948',
     'name' => 'bagisto/bagisto',
   ),
   'versions' => 
@@ -67,12 +67,12 @@
     ),
     'bagisto/bagisto' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-min',
+      'version' => 'dev-min',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '75bd7bbaf8fb66b759d0464ad7a105feacbdf948',
     ),
     'bagisto/bagisto-package-generator' => 
     array (
@@ -1341,8 +1341,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
